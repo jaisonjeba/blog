@@ -1,48 +1,47 @@
 [
-    {
-      "title": "The Rise of JavaScript Frameworks",
-      "content": "JavaScript frameworks like React, Vue, and Angular have revolutionized web development...",
-      "category": "Web Development",
-      "author": "John Doe",
-      "image": "https://example.com/images/javascript-frameworks.jpg",
-      "createdAt": "2024-12-14T10:00:00Z",
-      "updatedAt": "2024-12-14T10:00:00Z"
-    },
-    {
-      "title": "Understanding Machine Learning",
-      "content": "Machine learning is a subset of AI focused on building models that learn from data...",
-      "category": "Artificial Intelligence",
-      "author": "Jane Smith",
-      "image": "https://example.com/images/machine-learning.jpg",
-      "createdAt": "2024-12-13T09:30:00Z",
-      "updatedAt": "2024-12-13T09:30:00Z"
-    },
-    {
-      "title": "Top Travel Destinations for 2024",
-      "content": "Discover the most exciting travel spots to visit in 2024, from tropical beaches to bustling cities...",
-      "category": "Travel",
-      "author": "Emily Johnson",
-      "image": "https://example.com/images/travel-destinations.jpg",
-      "createdAt": "2024-12-12T08:45:00Z",
-      "updatedAt": "2024-12-12T08:45:00Z"
-    },
-    {
-      "title": "Healthy Eating on a Budget-friendly",
-      "content": "Learn how to maintain a healthy diet without breaking the bank with these practical tips...",
-      "category": "Health",
-      "author": "Michael Lee",
-      "image": "https://example.com/images/healthy-eating.jpg",
-      "createdAt": "2024-12-11T07:15:00Z",
-      "updatedAt": "2024-12-11T07:15:00Z"
-    },
-    {
-      "title": "Breaking Down Cryptocurrency Trends",
-      "content": "An in-depth analysis of the latest trends in cryptocurrency and blockchain technology...",
-      "category": "Finance",
-      "author": "Sophia Brown",
-      "image": "https://example.com/images/crypto-trends.jpg",
-      "createdAt": "2024-12-10T06:20:00Z",
-      "updatedAt": "2024-12-10T06:20:00Z"
-    }
-  ]
-  
+  {
+    "title": "The Rise of JavaScript Frameworks",
+    "content": "JavaScript frameworks like React, Vue, and Angular have revolutionized web development...",
+    "category": "Web Development",
+    "author": "John Doe",
+    "image": "https://example.com/images/javascript-frameworks.jpg",
+    "createdAt": "2024-12-14T10:00:00Z",
+    "updatedAt": "2024-12-14T10:00:00Z"
+  },
+  {
+    "title": "Understanding Machine Learning",
+    "content": "Machine learning is a subset of AI focused on building models that learn from data...",
+    "category": "Artificial Intelligence",
+    "author": "Jane Smith",
+    "image": "https://example.com/images/machine-learning.jpg",
+    "createdAt": "2024-12-13T09:30:00Z",
+    "updatedAt": "2024-12-13T09:30:00Z"
+  },
+  {
+    "title": "Top Travel Destinations for 2024",
+    "content": "Discover the most exciting travel spots to visit in 2024, from tropical beaches to bustling cities...",
+    "category": "Travel",
+    "author": "Emily Johnson",
+    "image": "https://example.com/images/travel-destinations.jpg",
+    "createdAt": "2024-12-12T08:45:00Z",
+    "updatedAt": "2024-12-12T08:45:00Z"
+  },
+  {
+    "title": "Healthy Eating on a Budget",
+    "content": "Learn how to maintain a healthy diet without breaking the bank with these practical tips...",
+    "category": "Health",
+    "author": "Michael Lee",
+    "image": "https://example.com/images/healthy-eating.jpg",
+    "createdAt": "2024-12-11T07:15:00Z",
+    "updatedAt": "2024-12-11T07:15:00Z"
+  },
+  {
+    "title": "Breaking Down Cryptocurrency Trends",
+    "content": "An in-depth analysis of the latest trends in cryptocurrency and blockchain technology...",
+    "category": "Finance",
+    "author": "Sophia Brown",
+    "image": "https://example.com/images/crypto-trends.jpg",
+    "createdAt": "2024-12-10T06:20:00Z",
+    "updatedAt": "2024-12-10T06:20:00Z"
+  }
+]
